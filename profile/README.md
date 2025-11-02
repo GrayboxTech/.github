@@ -16,9 +16,9 @@
   </p>
 </div>
 
-<h3 align="center">
-  <p>Build models tailored to your needs, at scale - avoid costly retrainings and tool patchwork</p>
-</h3>
+<h4 align="center">
+  <p>Place your AI anywhere between blackbox and whitebox — with insights and control</p>
+</h4>
 
 
 ### What is Graybx ?
