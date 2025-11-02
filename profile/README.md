@@ -1,7 +1,7 @@
 <h3 align="center">
   <img
     src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/logo-light.png"
-    height="80"
+    height="95"
   />
 </h3>
 
