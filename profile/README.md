@@ -21,8 +21,8 @@
   <p>Build models tailored to your needs, at scale - avoid costly retrainings and tools patchworth</p>
 </h3>
 
-<pre>
-## What is Graybx ?
+
+### What is Graybx ?
 
 Graybox is a platform for AI model training - it semplifies your AI development by unitying in one single platform data and model editing capabilities.
 
@@ -30,15 +30,14 @@ If you're looking for more advanced customization or agent orchestration, check 
 
 
 
-## How can I access Graybx ?
+### How can I access Graybx ?
 
 Join now our early access program ! Contaxt us at hello [at] graybx [dot] com
 
-## Learn More
+### Learn More
 
 - [Website] - updates and product deep dives
 - [Documentation] – unified docs for Graybx projects and services [coming soon]
 - [Community forum] – discuss, get help, and talk shop
 - [Graybx Academy] – comprehensive, free courses on Graybx products, made by the Graybx team [coming soon]
-</pre>
 
