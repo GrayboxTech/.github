@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center">
-  <p>Build models tailored to your needs, at scale - avoid costly retrainings and tools patchworth</p>
+  <p>Build models tailored to your needs, at scale - avoid costly retrainings and tool patchwork</p>
 </h3>
 
 
