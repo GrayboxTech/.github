@@ -10,7 +10,6 @@
     <a href="https://www.linkedin.com/company/graybx-com/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&link=linkedin.com%2Fcompany%2Fgraybx-com)"/>
     </a>
-    
     <a href="https://www.graybx.com">
         <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&labelColor=%23000000&link=https%3A%2F%2Fgraybx.com%2F" />
     </a>
