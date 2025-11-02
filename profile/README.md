@@ -1,8 +1,14 @@
-
+<h3 align="center">
+  <img
+    src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/logo-light.png"
+    height="80"
+  />
+</h3>
 
 <h3 align="center">
   <p>Build models tailored to your needs, at scale - avoid costly retrainings and tools patchworth</p>
 </h3>
+
 
 ## What is Graybx ?
 
