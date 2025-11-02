@@ -25,7 +25,7 @@
 
 Graybox is a *platform for AI model training* - it semplifies your AI development by unifying in one single platform data and model editing capabilities.
 
-If you're looking for more advanced customization or agent orchestration, check out
+
 
 
 
