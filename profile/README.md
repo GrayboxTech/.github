@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/company/graybx-com/">
       <img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
     </a>
-    <a href="https://www.graybx.com">
+    <a href="https://graybx.com">
       <img src="https://img.shields.io/badge/Website-Visit_Us-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
     </a>
   </p>
