@@ -13,6 +13,10 @@
     <a href="https://www.graybx.com">
         <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&labelColor=%23000000&link=https%3A%2F%2Fgraybx.com%2F" />
     </a>
+    </a>
+    <a href="https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A">
+        <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&labelColor=%23000000&link=https%3A%2F%2Fgraybx.com%2F" />
+    </a>
   </p>
 </div>
 
