@@ -1,29 +1,23 @@
-<h3 align="center">
+
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/logo-light.png"
+    alt="Graybox Logo"
     height="95"
   />
-</h3>
-
-<div>
-  <p align="center"
-    <a 
-    href="https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A">
-        <img src="https://img.shields.io/badge/Slack-%23E01E5A?style=for-the-badge&label=Graybx%20Community&color=%23E01E5A&link=https%3A%2F%2Fjoin.slack.com%2Ft%2Fgrayboxcommunity%2Fshared_invite%2Fzt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A" />
+  <h3>Place your AI anywhere between blackbox and whitebox — with insights and control</h3>
+  <p>
+    <a href="https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A">
+      <img src="https://img.shields.io/badge/Slack-Graybox_Community-E01E5A?style=for-the-badge&logo=slack&logoColor=white" alt="Join Slack Community" />
     </a>
     <a href="https://www.linkedin.com/company/graybx-com/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&link=linkedin.com%2Fcompany%2Fgraybx-com)"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
     </a>
     <a href="https://www.graybx.com">
-        <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&labelColor=%23000000&link=https%3A%2F%2Fgraybx.com%2F" />
+      <img src="https://img.shields.io/badge/Website-Visit_Us-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
     </a>
   </p>
 </div>
-
-<h4 align="center">
-  <p>Place your AI anywhere between blackbox and whitebox — with insights and control</p>
-</h4>
-
 
 ### What is Graybx ?
 
