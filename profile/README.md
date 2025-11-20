@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/logo-light.png"
+    src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/Graybx-logo-light.png"
     alt="Graybox Logo"
     height="95"
   />
