@@ -21,13 +21,12 @@
 
 ### What is Graybx ?
 
-Graybox is a *platform for AI model training* - it semplifies your AI development by unifying in one single platform data and model editing capabilities.
+Graybox is on a mission to *shine a light inside the blackbox*
+
+Our first product, Weightslab, semplifies AI model training by unifying in one single platform data and model editing capabilities.
 
 
-
-
-
-### How can I access Graybx ?
+### How can I access Weightslab ?
 
 Join now our *early access program* ! Contact us at hello [at] graybx [dot] com
 
