@@ -3,7 +3,7 @@
   <img
     src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/Banner_Graybx.jpg"
     alt="Graybox Logo"
-    height="150"
+    height="200"
   />
   <h3>Place your AI anywhere between blackbox and whitebox — with insights and control</h3>
   <p>
