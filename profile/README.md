@@ -21,7 +21,7 @@
 
 ### What is Graybx ?
 
-Graybox is on a mission to *shine a light inside the blackbox*
+Graybx is on a mission to *shine a light inside the blackbox*
 
 Our first product, Weightslab, semplifies AI model training by unifying in one single platform data and model editing capabilities.
 
