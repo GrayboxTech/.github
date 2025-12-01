@@ -5,7 +5,7 @@
     alt="Graybox Logo"
     height="250"
   />
-  <h3>Place your AI anywhere between blackbox and whitebox — with insights and control</h3>
+  <h3>Place your AI anywhere between black box and white box — with insights and control</h3>
   <p>
     <a href="https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A">
       <img src="https://img.shields.io/badge/Slack-Graybox_Community-E01E5A?style=for-the-badge&logo=slack&logoColor=white" alt="Join Slack Community" />
