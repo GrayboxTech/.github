@@ -29,6 +29,7 @@ Stop flying blind during training. Graybx gives ML engineers **visibility and co
 
 ```
 pip install weightslab
+weightslab ui launch
 ```
 
 → [`GrayboxTech/weightslab`](https://github.com/GrayboxTech/weightslab) — star it if it's useful ⭐
