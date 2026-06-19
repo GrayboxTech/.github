@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner"
+    src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png"
     alt="Graybx Banner"
     height="250"
   />
