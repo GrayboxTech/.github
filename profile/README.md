@@ -12,27 +12,25 @@
   </p>
 </div>
 
----
-
-Stop flying blind during training. Graybx gives ML engineers **visibility and control inside the loop**: inspect, fix then ship.
-
 <br>
 
 ## WeightsLab
 
-| | |
-|---|---|
-| **SDK** *(OSS)* | Convert your training script into live inspectable, and editable process, capturing per-sample signals. |
-| **Studio** *(commercial)* | Visual interface for rich, granular insights and data distribution edits for perception systems. |
+The IDE for mid-training model development — inspect, edit, and intervene without restarting.
+
+**Core OSS**
+- [`SDK`](https://github.com/GrayboxTech/weightslab) — Convert your training script into a live, inspectable, and editable process, capturing per-sample signals.
+
+**Commercial Platform**
+- [`Studio`](https://graybx.com) — Visual interface for rich, granular insights and data distribution edits for perception systems.
 
 ### Quick Start
 
-```
+```bash
 pip install weightslab
-weightslab ui launch
 ```
 
-→ [`GrayboxTech/weightslab`](https://github.com/GrayboxTech/weightslab) — star it if it's useful ⭐
+If this saves you a training restart, [**give it a star ⭐**](https://github.com/GrayboxTech/weightslab)
 
 <br>
 
