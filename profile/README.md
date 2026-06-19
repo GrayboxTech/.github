@@ -1,15 +1,20 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" />
-    <img src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" alt="Graybx Banner" width="100%" />
-  </picture>
-  <h3>The IDE for mid-training model development</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/company/graybx-com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" /></a>
-    <a href="https://www.youtube.com/@graybx-tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto" /></a>
-    <a href="https://graybx.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=auto" /></a>
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" />
+    <img src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" alt="Graybx Banner" width="100%" />
+  </picture>
+  <h3>The IDE for mid-training model development</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/company/graybx-com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" /></a>
+    <a href="https://www.youtube.com/@graybx-tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto" /></a>
+    <a href="https://graybx.com">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black&logoSize=auto" />
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=auto" alt="Website" />
+      </picture>
+    </a>
+  </p>
 </div>
 
 <br>
