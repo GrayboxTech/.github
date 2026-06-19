@@ -14,7 +14,7 @@
 
 ---
 
-Stop flying blind during training. Graybx gives ML engineers **visibility and control inside the loop** — inspect what's happening, fix it, and ship without restarting.
+Stop flying blind during training. Graybx gives ML engineers **visibility and control inside the loop**: inspect, fix then ship.
 
 <br>
 
@@ -22,13 +22,14 @@ Stop flying blind during training. Graybx gives ML engineers **visibility and co
 
 | | |
 |---|---|
-| **SDK** *(OSS)* | Wrap your training script to make it live, inspectable, and editable — capturing per-sample signals in real time. |
+| **SDK** *(OSS)* | Convert your training script into live inspectable, and editable process, capturing per-sample signals. |
 | **Studio** *(commercial)* | Visual interface for rich, granular insights and data distribution edits for perception systems. |
 
 ### Quick Start
 
-```bash
+```
 pip install weightslab
+weightslab ui launch
 ```
 
 → [`GrayboxTech/weightslab`](https://github.com/GrayboxTech/weightslab) — star it if it's useful ⭐
