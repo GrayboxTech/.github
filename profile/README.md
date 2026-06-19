@@ -22,7 +22,7 @@ Stop flying blind during training. Graybx gives ML engineers **visibility and co
 
 | | |
 |---|---|
-| **SDK** *(open source)* | Wrap your training script to make it live, inspectable, and editable — capturing per-sample signals in real time. |
+| **SDK** *(OSS)* | Wrap your training script to make it live, inspectable, and editable — capturing per-sample signals in real time. |
 | **Studio** *(commercial)* | Visual interface for rich, granular insights and data distribution edits for perception systems. |
 
 ### Quick Start
