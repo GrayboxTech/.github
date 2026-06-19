@@ -14,21 +14,37 @@
 
 ---
 
-Graybx builds open-source tooling that gives ML engineers visibility and control *inside* the training loop — so you can debug, edit, and ship models without starting over.
+Stop flying blind during training. Graybx gives ML engineers **visibility and control inside the loop** — inspect what's happening, fix it, and ship without restarting.
 
-Our first product is **WeightsLab**: an IDE for mid-training model development that unifies data and model editing in a single platform.
+<br>
 
-## Open Source
+## WeightsLab
 
-- [`WeightsLab`](https://github.com/GrayboxTech/weightslab) – inspect weights, edit datasets, and intervene mid-training. The IDE for ML engineers who want more than a loss curve.
+| | |
+|---|---|
+| **SDK** *(open source)* | Wrap your training script to make it live, inspectable, and editable — capturing per-sample signals in real time. |
+| **Studio** *(commercial)* | Visual interface for rich, granular insights and data distribution edits for perception systems. |
 
-## Learn More
+### Quick Start
 
-- [**Website**](https://graybx.com) – product updates and deep dives
-- [**Documentation**](https://graybx.com) – unified docs for Graybx projects *(coming soon)*
-- [**Community forum**](https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A) – discuss, get help, and talk shop on Slack
-- [**Graybx Academy**](https://graybx.com) – free courses on Graybx products, made by the team *(coming soon)*
+```bash
+pip install weightslab
+```
+
+→ [`GrayboxTech/weightslab`](https://github.com/GrayboxTech/weightslab) — star it if it's useful ⭐
+
+<br><br>
+
+## Community & Resources
+
+- 📖 [**Documentation**](https://graybx.com) – unified docs for all Graybx projects *(coming soon)*
+- 💬 [**Slack Community**](https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A) – ask questions, share feedback, talk shop
+- 🎓 [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
+- 🌐 [**Website**](https://graybx.com) – product updates and deep dives
+
+<br><br>
 
 ## Early Access
 
-WeightsLab is in active development. [**Join the early access program**](mailto:hello@graybx.com) and shape what we build next.
+WeightsLab is in active development — [**join the early access program**](mailto:hello@graybx.com) and shape what we build next.
+Used <br><br> instead of <br>
