@@ -33,7 +33,7 @@ pip install weightslab
 
 → [`GrayboxTech/weightslab`](https://github.com/GrayboxTech/weightslab) — star it if it's useful ⭐
 
-<br><br>
+<br>
 
 ## Community & Resources
 
@@ -42,9 +42,8 @@ pip install weightslab
 - 🎓 [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
 - 🌐 [**Website**](https://graybx.com) – product updates and deep dives
 
-<br><br>
+<br>
 
 ## Early Access
 
 WeightsLab is in active development — [**join the early access program**](mailto:hello@graybx.com) and shape what we build next.
-Used <br><br> instead of <br>
