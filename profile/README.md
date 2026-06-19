@@ -30,7 +30,7 @@ The IDE for mid-training model development — inspect, edit, and intervene with
 pip install weightslab
 ```
 
-If this saves you a training restart, [**give it a star ⭐**](https://github.com/GrayboxTech/weightslab)
+If [`weightslab`](https://github.com/GrayboxTech/weightslab) saves you a training restart, [**give it a star ⭐**](https://github.com/GrayboxTech/weightslab)
 
 <br>
 
