@@ -12,27 +12,36 @@
   </p>
 </div>
 
+
+At **Graybx** we build developer tools for ML engineers who train computer vision 
+models on image, video & LiDAR data — bringing visibility, debuggability & control 
+to the PyTorch training loop. [`Weightslab`](https://github.com/GrayboxTech/weightslab) is our first product.
+
+ML engineers spend too much time debugging blind — we build tools to fix that.
+
 <br>
 
 ## WeightsLab
 
-The IDE for mid-training model development — inspect, edit, and intervene without restarting.
+[`⭐ Star weightslab`](https://github.com/GrayboxTech/weightslab) · 
+[`Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart)
 
-**Core OSS**
-- [`SDK`](https://github.com/GrayboxTech/weightslab) — Convert your training script into a live, inspectable, and editable process, capturing per-sample signals.
+PyTorch dataset debugger for computer vision — pause training, mine live 
+loss signals to surface mislabels, class imbalance & outliers, then curate 
+your image, video & LiDAR data without restarting.
 
-**Commercial Platform**
-- [`Studio`](https://grayboxtech.github.io/signup/) — Visual interface for rich, granular insights and data distribution edits for images, videos, LiDAR point clouds
+### How it works
 
-### Quick Start
 
-```bash
-pip install weightslab
-```
+- **`SDK`** — Wrap your training script to capture live, per-sample signals 
+from your model, optimizer, and loss functions.
 
-If [`weightslab`](https://github.com/GrayboxTech/weightslab) saves you a training restart, [**give it a star ⭐**](https://github.com/GrayboxTech/weightslab)
 
-<br>
+- **`Studio`** — Visual interface to inspect those signals, surface problematic 
+samples, and curate your image, video & LiDAR datasets — mid-training, 
+without restarting.
+
+</br>
 
 ## Community & Resources
 
@@ -46,3 +55,5 @@ If [`weightslab`](https://github.com/GrayboxTech/weightslab) saves you a trainin
 ## Early Access
 
 WeightsLab is in active development — [**join the early access program**](https://grayboxtech.github.io/signup/) and shape what we build next.
+
+</br>
