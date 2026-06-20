@@ -45,4 +45,4 @@ If [`weightslab`](https://github.com/GrayboxTech/weightslab) saves you a trainin
 
 ## Early Access
 
-WeightsLab is in active development — [**join the early access program**](mailto:hello@graybx.com) and shape what we build next.
+WeightsLab is in active development — [**join the early access program**](https://grayboxtech.github.io/signup/) and shape what we build next.
