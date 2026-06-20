@@ -22,7 +22,7 @@ The IDE for mid-training model development — inspect, edit, and intervene with
 - [`SDK`](https://github.com/GrayboxTech/weightslab) — Convert your training script into a live, inspectable, and editable process, capturing per-sample signals.
 
 **Commercial Platform**
-- [`Studio`](https://calendly.com/graybx/graybox-30mins) — Visual interface for rich, granular insights and data distribution edits for images, videos, LiDAR point clouds
+- [`Studio`](https://grayboxtech.github.io/signup/) — Visual interface for rich, granular insights and data distribution edits for images, videos, LiDAR point clouds
 
 ### Quick Start
 
