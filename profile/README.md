@@ -24,7 +24,8 @@ ML engineers spend too much time debugging blind — we build tools to fix that.
 ## WeightsLab
 
 [`⭐ Star weightslab`](https://github.com/GrayboxTech/weightslab) · 
-[`Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart)
+[`🚀 Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart) · 
+[`⏰ Early Access`](https://grayboxtech.github.io/signup/)
 
 PyTorch dataset debugger for computer vision — pause training, mine live 
 loss signals to surface mislabels, class imbalance & outliers, then curate 
@@ -51,9 +52,3 @@ without restarting.
 - 🌐 [**Website**](https://graybx.com) – product updates and deep dives
 
 <br>
-
-## Early Access
-
-WeightsLab is in active development — [**join the early access program**](https://grayboxtech.github.io/signup/) and shape what we build next.
-
-</br>
