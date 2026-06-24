@@ -24,7 +24,7 @@ ML engineers spend too much time debugging blind — we build tools to fix that.
 ## WeightsLab
 
 [`⭐ Star weightslab`](https://github.com/GrayboxTech/weightslab) · 
-[`🚀 Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart) · 
+[`Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart) · 
 [`⏰ Early Access`](https://grayboxtech.github.io/signup/)
 
 PyTorch dataset debugger for computer vision — pause training, mine live 
@@ -46,9 +46,9 @@ without restarting.
 
 ## Community & Resources
 
-- 📖 [**Documentation**](https://graybx.com) – unified docs for all Graybx projects *(coming soon)*
-- 💬 [**Slack Community**](https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A) – ask questions, share feedback, talk shop
-- 🎓 [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
-- 🌐 [**Website**](https://graybx.com) – product updates and deep dives
+- [**Documentation**](https://graybx.com) – unified docs for all Graybx projects *(coming soon)*
+- [**Slack Community**](https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A) – ask questions, share feedback, talk shop
+- [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
+- [**Website**](https://graybx.com) – product updates and deep dives
 
 <br>
