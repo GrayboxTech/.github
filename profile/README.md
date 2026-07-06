@@ -47,7 +47,7 @@ without restarting.
 ## Community & Resources
 
 - [**Documentation**](https://graybx.com) – unified docs for all Graybx projects *(coming soon)*
-- [**Slack Community**](https://join.slack.com/t/grayboxcommunity/shared_invite/zt-3gtjg2p4y-UmSQC9pgAs8ZNE_gy4D~5A) – ask questions, share feedback, talk shop
+- [**Slack Community**](https://graybx.com) – ask questions, share feedback, talk shop *(coming soon)*
 - [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
 - [**Website**](https://graybx.com) – product updates and deep dives
 
