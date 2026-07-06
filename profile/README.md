@@ -14,10 +14,10 @@
 <br>
 
 At **Graybx** we build developer tools for ML engineers who train computer vision 
-models on image, video & LiDAR data — bringing visibility, debuggability & control 
+models on image, video & LiDAR data, bringing visibility, debuggability & control 
 to the PyTorch training loop. [`Weightslab`](https://github.com/GrayboxTech/weightslab) is our first product.
 
-ML engineers spend too much time debugging blind — we build tools to fix that.
+ML engineers spend too much time debugging blind. We build tooling to fix that.
 
 <br>
 
@@ -27,28 +27,28 @@ ML engineers spend too much time debugging blind — we build tools to fix that.
 [`Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart) · 
 [`⏰ Early Access`](https://grayboxtech.github.io/signup/)
 
-PyTorch dataset debugger for computer vision — pause training, mine live 
+PyTorch dataset debugger for computer vision. Pause training, mine live 
 loss signals to surface mislabels, class imbalance & outliers, then curate 
 your image, video & LiDAR data without restarting.
 
 ### How it works
 
 
-- **`SDK`** — Wrap your training script to capture live, per-sample signals 
+- **`SDK`** : Wrap your training script to capture live, per-sample signals 
 from your model, optimizer, and loss functions.
 
 
-- **`Studio`** — Visual interface to inspect those signals, surface problematic 
-samples, and curate your image, video & LiDAR datasets — mid-training, 
+- **`Studio`** : Visual interface to inspect those signals, surface problematic 
+samples, and curate your image, video & LiDAR datasets, mid-training, 
 without restarting.
 
 </br>
 
 ## Community & Resources
 
-- [**Documentation**](https://graybx.com) – unified docs for all Graybx projects *(coming soon)*
-- [**Slack Community**](https://graybx.com) – ask questions, share feedback, talk shop *(coming soon)*
-- [**Graybx Academy**](https://graybx.com) – free courses on Graybx products *(coming soon)*
-- [**Website**](https://graybx.com) – product updates and deep dives
+- [**Documentation**](https://graybx.com) : unified docs for all Graybx projects *(coming soon)*
+- [**Slack Community**](https://graybx.com) : ask questions, share feedback, talk shop *(coming soon)*
+- [**Graybx Academy**](https://graybx.com) : free courses on Graybx products *(coming soon)*
+- [**Website**](https://graybx.com) : product updates and deep dives
 
 <br>
