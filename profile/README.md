@@ -13,35 +13,12 @@
 
 <br>
 
-At **Graybx** we build developer tools for ML engineers who train computer vision 
-models on image, video & LiDAR data, bringing visibility, debuggability & control 
-to the PyTorch training loop. [`Weightslab`](https://github.com/GrayboxTech/weightslab) is our first product.
+At **Graybx**, we build open-source tooling for AI engineering teams working with messy real-world data.
+We bring a mid-training approach to AI development, using trainings signals to get live insights and power actions.
 
-ML engineers spend too much time debugging blind. We build tooling to fix that.
+</br>
 
-<br>
-
-## WeightsLab
-
-[`⭐ Star weightslab`](https://github.com/GrayboxTech/weightslab) · 
-[`Quickstart`](https://github.com/GrayboxTech/weightslab#quickstart) · 
-[`⏰ Early Access`](https://grayboxtech.github.io/signup/)
-
-PyTorch dataset debugger for computer vision. Pause training, mine live 
-loss signals to surface mislabels, class imbalance & outliers, then curate 
-your image, video & LiDAR data without restarting.
-
-### How it works
-
-
-- **`SDK`** : Wrap your training script to capture live, per-sample signals 
-from your model, optimizer, and loss functions.
-
-
-- **`Studio`** : Visual interface to inspect those signals, surface problematic 
-samples, and curate your image, video & LiDAR datasets, mid-training, 
-without restarting.
-
+[`Weightslab`](https://github.com/GrayboxTech/weightslab), our first product, is specifically designed for Computer Vision & Perception teams working with Images, Videos, Lidar Point Clouds.
 </br>
 
 ## Community & Resources
