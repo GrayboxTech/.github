@@ -13,12 +13,12 @@
 
 <br>
 
-At **Graybx**, we build open-source tooling for AI engineering teams working with messy real-world data.
+At **Graybx**, we build open-source tooling for AI engineering teams.
 We bring a mid-training approach to AI development, using trainings signals to get live insights and power actions.
 
 </br>
 
-[`Weightslab`](https://github.com/GrayboxTech/weightslab), our first product, is specifically designed for Computer Vision & Perception teams working with Images, Videos, Lidar Point Clouds.
+[`Weightslab`](https://github.com/GrayboxTech/weightslab), our first product, is specifically designed for Computer Vision & Perception teams working with messy real-world data: Images, Videos, Lidar Point Clouds.
 </br>
 
 ## Community & Resources
