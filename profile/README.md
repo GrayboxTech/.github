@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" />
-    <img src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner.png" alt="Graybx Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner-new.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner-new.png" />
+    <img src="https://raw.githubusercontent.com/GrayboxTech/.github/main/profile/graybx-org-banner-new.png" alt="Graybx Banner" width="100%" />
   </picture>
   <p align="center">
     <a href="https://www.linkedin.com/company/graybx-com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" /></a>
