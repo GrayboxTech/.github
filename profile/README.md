@@ -24,7 +24,9 @@ We bring a mid-training approach to AI development, using training signals to ge
 ## Community & Resources
 
 - [**Documentation**](https://grayboxtech.github.io/weightslab/latest/index.html) : unified docs for all Graybx projects *(coming soon)*
-[//]: <> (- [**Graybx Academy**](https://graybx.com) : free courses on Graybx products *(coming soon)*)
+<!---
+- [**Graybx Academy**](https://graybx.com) : free courses on Graybx products *(coming soon)*)
+-->
 - [**Website**](https://graybx.com) : product updates and deep dives
 
 <br>
